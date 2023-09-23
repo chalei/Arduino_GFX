@@ -1,4 +1,6 @@
 # Arduino_GFX
+## This library is a modified version from the Arduino_GFX library that work with the sensecap Indicator. Do take notice that the SWSPI bus only work Sensecap Indicator Device
+
 
 Arduino_GFX is a Arduino graphics library supporting various displays with various data bus interfaces.
 
